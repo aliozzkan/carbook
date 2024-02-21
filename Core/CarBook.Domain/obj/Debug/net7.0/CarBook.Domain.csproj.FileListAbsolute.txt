@@ -1,0 +1,12 @@
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/bin/Debug/net7.0/CarBook.Domain.deps.json
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/bin/Debug/net7.0/CarBook.Domain.dll
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/bin/Debug/net7.0/CarBook.Domain.pdb
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.AssemblyInfoInputs.cache
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.AssemblyInfo.cs
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.csproj.CoreCompileInputs.cache
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.dll
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/refint/CarBook.Domain.dll
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.pdb
+/Users/aliozkan/Documents/projects/dotnet/carbook/core/CarBook.Domain/obj/Debug/net7.0/ref/CarBook.Domain.dll
+/Users/aliozkan/Documents/projects/dotnet/carbook/Core/CarBook.Domain/obj/Debug/net7.0/CarBook.Domain.csproj.AssemblyReference.cache
